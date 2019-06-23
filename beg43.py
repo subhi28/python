@@ -1,2 +1,2 @@
-su,bi=input().split()
-print(su+bi)
+su,bhi=input().split()
+print(su+bhi)
