@@ -1,4 +1,4 @@
-#subi
+#su
 from itertools import combinations
 a,b=map(int,input().split())
 h=len(str(a))
